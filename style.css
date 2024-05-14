@@ -487,6 +487,9 @@ form {
 
   font-weight: 700;
 }
+.subscribe1{
+  color: #fff;
+}
 tr {
   padding: 10vw;
   display: flex;
@@ -541,8 +544,15 @@ h6 {
     font-size: 3vw;
     text-shadow: 4px 4px 8px white;
   }
+ul{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-right: 1vw;
+  gap: 7vw;
+}
   .subbox {
-    font-size: 2.5vw;
+    font-size: 3vw;
     background: none;
   }
   .pic {
@@ -922,7 +932,6 @@ h6 {
   }
   .subscribe {
     width: 40vw;
-    height: 5.5vh;
     font-size: 20px;
   }
   .box20 {
